@@ -1,12 +1,12 @@
 export const environment = {
     production: false,
-    apiBaseUrl: "https://contosoqbot.azurewebsites.net/api/Request/",
-    selfUrl: "https://contosoqbot-questions.azurewebsites.net",
+    apiBaseUrl: "https://faerieqbot.azurewebsites.net/api/Request/",
+    selfUrl: "https://faerieqbot-questions.azurewebsites.net",
 
     authConfig: {
         instance: "https://login.microsoftonline.com/",
         tenantId: "8fef4239-176e-4f68-960f-defc763764b3",
-        clientId: "6cc4cbef-4521-402e-8680-d9422d3bcb2e",
+        clientId: "e76a361e-7f8d-415e-8327-0532c5aafe59",
         redirectUri: "/app-silent-end",
         cacheLocation: "localStorage",
         navigateToLoginRequestUrl: false,
